@@ -4,10 +4,10 @@ Working with Anaconda, Jupyter Notebook, Python and Pandas to analyze data for a
 ### Overview of the school district analysis
 This challenge involved working with the school district to create a program that could efficiently interpret a large dataset of high school students in one school district and display easy-to-read tables that show the student scores within certain grades and schools.  Here are list of required deliverables from the district:
 
-    - Provide information related to the Thomas High School excluding the ninth year.
-    - Provide an overview of the key metrics for each school in table format
-    - Provide a snapshot of the district's key metrics presented in table format
-    - List the top five and bottom five performing schools based on the overall passing rate
+- Provide information related to the Thomas High School excluding the ninth year.
+- Provide an overview of the key metrics for each school in table format
+- Provide a snapshot of the district's key metrics presented in table format
+- List the top five and bottom five performing schools based on the overall passing rate
 - Caculate the average math and reading scores by students in each grade level
 - List school performance based on budget per student, school size and type of high school.
 
@@ -18,10 +18,12 @@ By excluding the ninth year of the Thomas High School, figures have not changed 
 From an overall point of view the impact of excluding then ninth year of Thomas High Scholl do not have a significant impact on a district level:
 
 Original results:
-![Original Results](/Resources/District_Summary_old.png)
+
+![Original Results](Resources/district_summary_old.PNG)
 
 New Results:
-![Original Results](/Resources/District_Summary_new.PNG)
+
+![Original Results](Resources/district_summary_new.PNG)
 
 On the contrary, excluding the ninth year change dramatically the performance of the Thomas High School by 26 points in reading 27 points in math and 25.5 points in the overall. This change put THS "on track" in comparison with other "Charter" similar-size schools. In fact makes THS to rank second on the district.
 
